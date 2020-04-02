@@ -84,7 +84,7 @@
 
 body {
   
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/laurent-venerosy-aQmUPrG_-30-unsplash.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/background-min.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -96,7 +96,7 @@ body {
   line-height: 1.5; }
   
   body#bg-img {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/el-alce-web-oXHu7dhIiIM-unsplash.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/main-min.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
