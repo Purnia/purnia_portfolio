@@ -92,7 +92,7 @@ body {
   color: white;
   height: 100%;
   margin: 0;
-  font-family: 'Lato', 'Arial', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.5; }
   
   body#bg-img {
@@ -129,7 +129,7 @@ h3 {
   h2.sm-heading,
   h3.sm-heading {
     margin-bottom: 2rem;
-    padding: 0.2rem 1rem;
+    padding: 0.2rem;
     }
 
 a {
